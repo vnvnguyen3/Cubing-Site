@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-dark {
+  background-color: #598062;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, #dd3737, #ff8800, #ffe600, #ffffff, #33fc0b, #0400ff);
+}
+
+h1{
+  color: white;
+  background-color: black;
+}
